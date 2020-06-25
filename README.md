@@ -11,3 +11,5 @@ DrugRepV folder contains the programs (Python and R) used in identification of r
 - drugrepV_heatmap.ipynb - Python program to genrate the heatmap with identified repurposed drugs with their confofence score (s).
 
 - alluvial_plot.R - R program to generate highly user-friendly alluvial plot.
+
+- data.zip - Input data of 14 epidemic/pandemic viruses used in analysis.
