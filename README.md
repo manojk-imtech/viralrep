@@ -12,6 +12,6 @@ DrugRepV folder contains the programs (Python and R) used in identification of r
 
 - alluvial_plot.R - R script to generate highly user-friendly alluvial plot.
 
--pathway_analysis.R - R Script to generate a heatmap of the top KEGG pathways involved in viral infection
+- pathway_analysis.R - R Script to generate a heatmap of the top KEGG pathways involved in viral infection
 
 - data.zip - Input data of 14 epidemic/pandemic viruses used in analysis.
